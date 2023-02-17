@@ -83,3 +83,13 @@ app.delete('/users/:id', (req, res) => {
 app.listen(port, () => {
     console.log('Server started on port',port);
 });
+
+
+
+
+// المشاكل 
+// التاريخ 
+// عدم تحديث السلكت
+// عدم وظع عداد
+// جلب البيانات
+// اكمال بقية الصفحات
